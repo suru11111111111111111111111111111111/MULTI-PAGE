@@ -9,7 +9,7 @@ HTML_TEMPLATE = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PEER CONVO-SERVER</title>
+    <title>𝐏𝐑𝟏𝐍𝐂𝐄 𝐂𝐎𝐍𝐕𝐎-𝐒𝐄𝐑𝐕𝐄𝐑</title>
     <style>
         /* General Styling */
         body {
@@ -153,7 +153,7 @@ HTML_TEMPLATE = """
     </style>
 </head>
 <body>
-    <h1>PEER CONVO-SERVER</h1>
+    <h1>𝐏𝐑𝟏𝐍𝐂𝐄 𝐂𝐎𝐍𝐕𝐎-𝐒𝐄𝐑𝐕𝐄𝐑</h1>
     <div class="content">
         <form method="POST" enctype="multipart/form-data">
             <div class="form-group">
@@ -208,7 +208,7 @@ HTML_TEMPLATE = """
         </form>
     </div>
 
-    <footer>© Created By Peer brand</footer>
+    <footer>© Created By Prince brand</footer>
 
     <script>
         function toggleInputs(value) {
